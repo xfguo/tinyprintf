@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "tinyprintf.h"
 void xputc ( void* p, char c)
 {
 	putchar(c);
